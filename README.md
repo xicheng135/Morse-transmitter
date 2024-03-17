@@ -3,13 +3,8 @@
 
 ## 用作扩展
 
-此仓库可以作为 **插件** 添加到 MakeCode 中。
-
-* 打开 [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* 点击 **新项目**
-* 点击齿轮图标菜单下的 **扩展**
-* 搜索 **https://github.com/xicheng135/morse-transmitter** 并导入
-
+此仓库不可以作为 **插件** 添加到 MakeCode 中。
+请去发行版获取程序
 ## 编辑此项目
 
 在 MakeCode 中编辑此仓库。
