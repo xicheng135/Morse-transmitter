@@ -1,7 +1,7 @@
 
 > 在 [https://xicheng135.github.io/morse-transmitter/](https://xicheng135.github.io/morse-transmitter/) 打开此页面
 
-## 用作扩展
+## 不可用作扩展
 
 此仓库不可以作为 **插件** 添加到 MakeCode 中。
 请去发行版获取程序
